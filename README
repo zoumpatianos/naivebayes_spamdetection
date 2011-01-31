@@ -4,7 +4,8 @@ This is an implementation of the Naive Bayes text classification algorithm used 
 
 
 Running
-=======	python main.py pu_corpora_public/pu2	
+=======	
+python main.py pu_corpora_public/pu2	
 
 Corpora
 =======
