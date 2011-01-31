@@ -1,0 +1,16 @@
+Description
+===========
+This is an implementation of the Naive Bayes text classification algorithm used to identify spam over legitimate messages.
+
+
+Running
+=======	python main.py pu_corpora_public/pu2	
+
+Corpora
+=======
+The PU1, PU2, PU3, and PUA corpora (as well as Ling-Spam) can be 
+obtained from the site of i-config:
+  http://www.iit.demokritos.gr/skel/i-config/
+or the publications section of Ion Androutsopoulos' web pages:
+  http://www.aueb.gr/users/ion/publications.html.
+
